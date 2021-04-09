@@ -4,7 +4,7 @@ setlocal enabledelayedexpansion
 echo Website monitoring.
 echo ----
 
-@set check_urls[0]=https://googl.co.jp
+@set check_urls[0]=https://example1.co.jp
 @set check_urls[1]=https://example2.co.jp
 @set check_urls[2]=https://example3.co.jp
 @set check_urls[3]=https://example4.co.jp
