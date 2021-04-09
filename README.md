@@ -1,0 +1,2 @@
+# website_monitoring_status_code
+Windows10に実装されたcurlkコマンドを使用した簡単なWEBサイトの死活監視バッチプログラムです
